@@ -3,7 +3,7 @@
 <h4 align="center">A recommendation site to feed your addictions</h4>
 
 ## Welcome
-Augur is a website designed to find and recommend the best content possible.
+Augur is a website designed to find and recommend the most relevant movies and tv shows possible.
 
 There are currently have two main focuses:
 - [Augur](https://github.com/getaugur/augur), the opensource movie/tvshow recommendor
